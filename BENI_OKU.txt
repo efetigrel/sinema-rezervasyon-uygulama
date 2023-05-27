@@ -1,0 +1,2 @@
+KULLANICI ADI: Admin
+ŞİFRE: 123455
